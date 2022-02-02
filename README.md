@@ -27,6 +27,10 @@ NTzQvPcLBacBmgajXQc7QAaU.XCgboz.c4t51kFWSEmdmaPnKoyUuu8E78E
 pip install -r requirements.txt OR pip3 install -r requirements.txt
 python generator.py OR python3 generator.py
 ```
-
-## Screenshot:  <br>
-<img src="https://i.imgur.com/jObazLm.png"></img><br>
+##Steps
+1 - Install Python (skip if you have done)
+2 - Open VS Code
+3 - In terminal type "pip install{items in the requirements.txt}"
+4 - After installing run the code without debbuging
+5 - Follow the steps and complete
+6 - Rate me
